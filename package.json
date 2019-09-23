@@ -1,5 +1,5 @@
 {
-  "name": "@nuage/peact-window",
+  "name": "@nuage/preact-window",
   "version": "1.8.5",
   "description":
     "React components for efficiently rendering large, scrollable lists and tabular data",
