@@ -1,6 +1,6 @@
 {
   "name": "@nuage/preact-window",
-  "version": "1.8.5",
+  "version": "1.8.8",
   "description":
     "React components for efficiently rendering large, scrollable lists and tabular data",
   "author":
@@ -34,8 +34,8 @@
     "grid",
     "spreadsheet"
   ],
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
+  "main": "dist/index-prod.umd.js",
+  "types": "src/index.d.ts",
   "files": ["dist", "src/*.js"],
   "scripts": {
     "flow": "flow check --max-warnings=0 src && flow check website",
