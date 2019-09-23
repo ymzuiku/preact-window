@@ -7,4 +7,4 @@ export interface IPropsVariableSizeList {
   layout?: 'horizontal' | number;
 }
 
-export type VariableSizeList = (props: IPropsVariableSizeList) => any;
+export const VariableSizeList = (props: IPropsVariableSizeList) => any;

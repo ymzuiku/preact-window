@@ -1,6 +1,6 @@
 {
   "name": "@nuage/preact-window",
-  "version": "1.8.8",
+  "version": "1.8.9",
   "description":
     "React components for efficiently rendering large, scrollable lists and tabular data",
   "author":
